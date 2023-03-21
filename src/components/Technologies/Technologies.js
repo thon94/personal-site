@@ -31,8 +31,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Computer Vision</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Image classification, segmentation, object detection
           </ListParagraph>
         </ListContainer>
       </ListItem>
